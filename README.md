@@ -1,9 +1,12 @@
 # Data Jobs Survey Analysis
 
- ## Aim:
- This project aims to analyze survey data on various data job roles, focusing on aspects such as job titles, career switches, salaries, job satisfaction etc.
+This project aims to analyze survey data on various data job roles, focusing on aspects such as job titles, career switches, salaries, job satisfaction etc.
+ 
+## Dashboard
+![](Dashboard.png)
 
- ## About the Dataset:
+
+ ## Dataset Overview:
  The survey data includes the following key questions:
 
 - Q1: Which title best fits your current role?
@@ -20,11 +23,15 @@
 - Q12: Highest level of education
 - Q13: Ethnicity
 
-## Conclusions:
+## Key Visualizations:
+- Most used programming languages by people in data job roles
+- Average Salary categorized by different job titles, countries, and gender
+- Metrics showcasing average rating of people with happy work/life balance
+
+## Insights:
 - Total surveys taken = 630
 - Average age of people taking survey = 30
 - Highest Average Salary = Data Scientist
 - Favourite Programming Language = Python
 
-## Dashboard
-![](Dashboard.png)
+
